@@ -16,9 +16,9 @@ InstaBrute is a Python script for brute-forcing Instagram accounts. It attempts 
 - `requests` library
 - `colorama` library
 
-## Installation
+# Installation
 
-git clone https://github.com/yourusername/InstaBrute.git
+git clone https://github.com/ALHARAMM/InstaBrute.git
 Navigate to the project directory:
 
 cd InstaBruteInstall the required packages:
