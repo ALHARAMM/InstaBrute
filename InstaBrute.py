@@ -54,7 +54,7 @@ Buy me a coffee...
 Copyright: @ALHARAM             
 ''')
 
-username = input('Enter Your User: ')
+username = input('Enter The Target User: ')
 passwords = input('Enter Your Pass File Path: ')
 
 headers = {    
