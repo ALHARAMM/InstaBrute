@@ -4,7 +4,6 @@ InstaBrute is a Python script for brute-forcing Instagram accounts. It attempts 
 
 ![Screenshot from 2024-09-07 21-36-15](https://github.com/user-attachments/assets/6bc7ef39-9030-4643-a18f-298bce917d57)
 
-
 ## Features
 
 - Attempts to log in with a list of passwords.
@@ -16,7 +15,7 @@ InstaBrute is a Python script for brute-forcing Instagram accounts. It attempts 
 - `requests` library
 - `colorama` library
 
-# Installation
+## Installation
 
 git clone https://github.com/ALHARAMM/InstaBrute.git
 Navigate to the project directory:
@@ -25,7 +24,7 @@ cd InstaBruteInstall the required packages:
 
 pip install requests colorama
 
-##Usage
+## Usage
 Prepare a text file with a list of passwords. Each password should be on a new line.
 
 Run the script:
@@ -36,13 +35,13 @@ Provide inputs when prompted:
 Enter the target username.
 Enter the path to your password file.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Disclaimer
+## Disclaimer
 This tool is intended for educational purposes only. Unauthorized access to Instagram accounts is illegal and unethical. Use this tool responsibly and only on accounts you have explicit permission to test.
 
-##Author
+## Author
 ALHARAM
 
 
