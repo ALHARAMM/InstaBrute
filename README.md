@@ -36,14 +36,12 @@ Enter the target username.
 Enter the path to your password file.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Disclaimer
-This tool is intended for educational purposes only. Unauthorized access to Instagram accounts is illegal and unethical. Use this tool responsibly and only on accounts you have explicit permission to test.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-ALHARAM
 
+- **ALHARAMM** - [GitHub Profile](https://github.com/ALHARAMM)
 
 
 
