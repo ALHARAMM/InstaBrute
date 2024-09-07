@@ -2,7 +2,6 @@
 
 InstaBrute is a Python script for brute-forcing Instagram accounts. It attempts to log in to Instagram using a list of passwords and reports the status of the login attempt.
 
-![Screenshot from 2024-09-07 21-32-37](https://github.com/user-attachments/assets/ecb52ebc-7b88-452f-8247-80dbb5082487)
 
 ## Features
 
