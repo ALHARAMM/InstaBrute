@@ -1,6 +1,8 @@
 # InstaBrute
 
-InstaBrute is a tool for brute-forcing Instagram accounts. It attempts to log in to Instagram using a list of passwords.
+InstaBrute is a Python script for brute-forcing Instagram accounts. It attempts to log in to Instagram using a list of passwords and reports the status of the login attempt.
+
+![Screenshot from 2024-09-07 21-32-37](https://github.com/user-attachments/assets/ecb52ebc-7b88-452f-8247-80dbb5082487)
 
 ## Features
 
@@ -15,37 +17,35 @@ InstaBrute is a tool for brute-forcing Instagram accounts. It attempts to log in
 
 ## Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/InstaBrute.git
+git clone https://github.com/yourusername/InstaBrute.git
 Navigate to the project directory:
 
-bash
-Copy code
-cd InstaBrute
-Install the required packages:
+cd InstaBruteInstall the required packages:
 
-bash
-Copy code
 pip install requests colorama
-Usage
+
+##Usage
 Prepare a text file with a list of passwords. Each password should be on a new line.
 
 Run the script:
 
-bash
-Copy code
-python insta_brute.py
-Enter your Instagram username and the path to your password file when prompted.
+python3 insta_brute.py
+Provide inputs when prompted:
 
-Example
-bash
-Copy code
-Enter Your User: myusername
-Enter Your Pass File Path: /path/to/passwords.txt
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Enter the target username.
+Enter the path to your password file.
 
-Disclaimer
-This tool is for educational purposes only. Unauthorized access to Instagram accounts is illegal and unethical. Use this tool responsibly and only on accounts for which you have permission.
+##License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+##Disclaimer
+This tool is intended for educational purposes only. Unauthorized access to Instagram accounts is illegal and unethical. Use this tool responsibly and only on accounts you have explicit permission to test.
+
+##Author
+ALHARAM
+
+
+
+
+
+
