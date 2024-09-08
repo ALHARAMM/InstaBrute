@@ -1,4 +1,3 @@
-
 import requests
 from colorama import Fore, init
 
